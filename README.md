@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I'm Jagrati Jain!
  
-- Final year student pursuing Master of Computer Applications.
+- Pursued Master of Computer Applications from Christ University, Bangalore.
 - Interest areas: Web Development, Android Development, Data Analysis
 - Technical Skill Set: C, JAVA, Web Development(HTML, CSS, Bootstrap, React.js), SQL, Python(Pandas, NumPy, Matplotlib, Seaborn), Android Development(Kotlin, Java)
 <!--
